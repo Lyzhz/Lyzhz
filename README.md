@@ -23,12 +23,10 @@
 ### 🚀 Technologies and Tools ⚙
 
 <div class="row">
-  <img src="https://github.com/Luyzhz/Luyzhz/blob/main/images/php7.png" alt="php 7" width="30" height="40"/>
-  <img src="https://github.com/Luyzhz/Luyzhz/blob/main/images/dotnet-core.png" alt="asp net core" width="30" height="30"/>
-  <img src="https://github.com/Luyzhz/Luyzhz/blob/main/images/git.svg" alt="git" width="30" height="30"/>
-  <img src="https://github.com/Luyzhz/Luyzhz/blob/main/images/mysql.svg" alt="mysql" width="30" height="30"/>
-  <img src="https://github.com/Luyzhz/Luyzhz/blob/main/images/sql-server.svg" alt="sql server" width="30" height="30"/>
-  <img src="https://github.com/Luyzhz/Luyzhz/blob/main/images/azure.svg" alt="azure" width="30" height="30"/>
+  <img src="https://github.com/Lyzhz/Lyzhz/blob/main/image/logo-css-3-512.png" alt="php 7" width="30" height="40"/>
+  <img src="https://github.com/Lyzhz/Lyzhz/blob/main/image/logo-html-5-512.png" alt="asp net core" width="30" height="30"/>
+  <img src="https://github.com/Lyzhz/Lyzhz/blob/main/image/logo-javascript-512.png" alt="git" width="30" height="30"/>
+
   <img src="https://cdn.svgporn.com/logos/visual-studio-code.svg" height="30">
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" height="30">
 </div>
