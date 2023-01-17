@@ -6,7 +6,7 @@
 
 ### :wave: About me
 
-#### I'm 20 years old, A student and back-end web developer focused on learning back-end, front-end and technologies. Always looking to contribute to the community in some way and learn together.
+#### I'm 20 years old, I'm a student and front-end web developer Always looking to contribute in some way to the community and learn together.
 
 <details>
   <summary># My Github Stats</summary>
