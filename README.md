@@ -2,12 +2,12 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luis-nunes-408902209/)](https://www.linkedin.com/in/luis-nunes-408902209/)
 [![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511989729095)](https://api.whatsapp.com/send?phone=5511989729095)
-<a href = "mailto:luyzhz371@hotmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" target="_blank"></a>
 
 ### :wave: About me
 
 #### I'm 20 years old
 #### I'm a student and front-end web developer Always looking to contribute in some way to the community and learn together.
+#### Contact Me: luyzhz371@hotmail.com
 
 
 <details>
