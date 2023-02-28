@@ -15,10 +15,10 @@ I'm a student and front-end web developer Always looking to contribute in some w
   <img src="https://github-readme-stats.vercel.app/api?username=Lyzhz&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=282a36">
 
 
-<details>
+
   <summary># Languages Used</summary>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lyzhz&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=282a36">
-</details>
+
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Lyzhz&bg_color=0d1117&color=b13583&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
