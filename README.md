@@ -10,9 +10,10 @@ I'm a student and front-end web developer Always looking to contribute in some w
 #### Contact Me: luyzhz371@hotmail.com
 
 
-<details>
+
+  <summary># My Github Stats</summary>
   <img src="https://github-readme-stats.vercel.app/api?username=Lyzhz&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=282a36">
-</details>
+
 
 <details>
   <summary># Languages Used</summary>
