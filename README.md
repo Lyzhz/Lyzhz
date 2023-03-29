@@ -28,7 +28,7 @@ I'm a student and Full-stack developer Always looking to contribute in some way 
   <img src="https://github.com/Lyzhz/Lyzhz/blob/main/image/logo-html-5-512.png" alt="html" width="30" height="30"/>
   <img src="https://github.com/Lyzhz/Lyzhz/blob/main/image/logo-css-3-512.png" alt="css" width="30" height="30"/>
   <img src="https://github.com/Lyzhz/Lyzhz/blob/main/image/logo-javascript-512.png" alt="git" width="30" height="30"/>
-  <img src="https://github.com/Lyzhz/Lyzhz/blob/main/image/png-transparent-angular-js-full-logo-tech-companies.png" alt="git" width="30" height="30"/>
+  <img src="https://github.com/Lyzhz/Lyzhz/blob/main/image/png-transparent-angular-js-full-logo-tech-companies.png" alt="git" width="60" height="30"/>
 
   <img src="https://cdn.svgporn.com/logos/visual-studio-code.svg" height="30">
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" height="30">
