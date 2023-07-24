@@ -5,7 +5,7 @@
 
 ### :wave: About me
 
-#### I'm 20 years old
+#### I'm 21 years old
 I'm a student and Full-stack developer Always looking to contribute in some way to the community and learn together.
 #### Contact Me: luyzhz371@hotmail.com
 
@@ -19,8 +19,6 @@ I'm a student and Full-stack developer Always looking to contribute in some way 
   <summary># Languages Used</summary>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lyzhz&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=282a36">
   </details>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Lyzhz&bg_color=0d1117&color=b13583&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### 🚀 Technologies and Tools ⚙
 
