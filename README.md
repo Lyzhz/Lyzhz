@@ -1,7 +1,6 @@
 ## Luis Henrique
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luis-nunes-408902209/)](https://www.linkedin.com/in/luis-nunes-408902209/)
-[![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511989729095)](https://api.whatsapp.com/send?phone=5511989729095)
 
 ### :wave: About me
 
