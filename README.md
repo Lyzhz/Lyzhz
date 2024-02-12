@@ -11,7 +11,7 @@ I'm a student and Fullstack developer Always looking to contribute in some way t
 
   <details>
   <summary># My Github Stats</summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=Lyzhz&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=282a36">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lyzhz&show_icons=true&hide_border=true&card_width=100&title_color=A7F5AA&icon_color=4CAF50&text_color=A7F5AA&bg_color=222428">
   </details>
 
   <details>
