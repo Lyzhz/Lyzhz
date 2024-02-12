@@ -1,6 +1,8 @@
 ## Luis Henrique
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luis-nunes-408902209/)](https://www.linkedin.com/in/luis-nunes-408902209/)
+[![Outlook Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:luyzhz371@hotmail.com)](mailto:Luyzhz371@hotmail.com)
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-255E63?style=flat-square&logo=About.me&logoColor=white&link=https://portfolio-lyz.vercel.app/)](https://portfolio-lyz.vercel.app/)
 
 ### :wave: About me
 
