@@ -56,8 +56,8 @@ Currently deepening my knowledge in **Cloud (AWS)**, **software architecture**, 
 
 ---
 
-### 🚀 Backend Developer — LockInfinity System  
-**InfinityBR · Freelance · Jun 2025 – Feb 2026**
+### 🚀 Backend Developer — LockInfinity System
+**InfinityBR · Freelance · Jul 2025 – Feb 2026 (delivered) · ongoing support**
 
 - Design and development of a smart locker management system using **Flutter + BLE (Bluetooth Low Energy)**
 - Architecture of a flexible **grid-based locker system** supporting dynamic layouts and sizes
