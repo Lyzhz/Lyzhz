@@ -31,7 +31,7 @@ Currently deepening my knowledge in **Cloud (AWS)**, **software architecture**, 
 
 ## 💼 Professional Experience
 
-### 🏢 Backend Developer — Sparsum Tecnologia  
+### 🏢 Backend Developer — Mirasys Brazil  
 **Nov 2024 – Present · Full-time · Hybrid (São Paulo, Brazil)**
 
 - Development and maintenance of backend applications in **C# / .NET**, focusing on performance, security, and scalability
